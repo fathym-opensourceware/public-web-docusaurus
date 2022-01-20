@@ -1,4 +1,4 @@
-name: GitHub Artifacts - Release
+name: fathym-opensourceware - $public-web-docusaurus
 
 on:
   push:
